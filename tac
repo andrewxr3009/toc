@@ -8,3 +8,5 @@ https://streaming.belugacdn.link/a/hls1/viva.m3u8?expires=1605674949&token=ec8e0
 https://streaming.belugacdn.link/a/hls1/discoveryhomeihealth.m3u8?expires=1605675488&token=36cadfab0ab92242106198715e9be4a0
 #EXTINF:1 tvg-log = "" group-title = "",Loading TV
 https://akamai2-br.cdn.booyah.live/hls/1000022/34850987_720.m3u8
+#EXTINF:1 tvg-log = "" group-title = "",Superação:O milagre da fé
+https://coca-cola.azureedge.net/RCFServer2/ondemand/SPRCOMLGRDFE.mp4
