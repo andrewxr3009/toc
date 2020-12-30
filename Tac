@@ -10,3 +10,4 @@ https://streaming.belugacdn.link/a/hls1/discoveryhomeihealth.m3u8?expires=160567
 https://akamai2-br.cdn.booyah.live/hls/1000022/34850987_720.m3u8
 #EXTINF:1 tvg-log = "" group-title = "",VIVA
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/viva.m3u8?mu3zAQc9HC3GbwJq=FXM3dhY_ija3UQJ2BZUM3A&3U1G7qaTxrPbalZnEx=1609399067
+
