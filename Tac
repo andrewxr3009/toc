@@ -7,4 +7,5 @@ https://azureedge.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
 #EXTINF:1 tvg-log = "https://ovicio.com.br/wp-content/uploads/2021/01/20210111-wandavisiondplus-730x365.jpg" group-title = "",Wandavision 4
 https://video.wixstatic.com/video/189d4b_caf734b4f525482682a8e28cba0aa75e/720p/mp4/file.mp4
 #EXTINF:1 tvg-log = "https://ovicio.com.br/wp-content/uploads/2021/01/20210111-wandavisiondplus-730x365.jpg" group-title = "",Wandavision 5
-https://video.wixstatic.com/video/189d4b_dae467ab59c4480a9b380210d57993df/720p/mp4/file.mp4
+https://video.wixstatic.com/video/189d4b_2dabd45eea55446e98686d324f778c9b/720p/mp4/file.mp4
+
