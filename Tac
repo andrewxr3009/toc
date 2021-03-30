@@ -2,9 +2,9 @@
 
 #EXTINF:1 tvg-log = "" group-title = "",Manchete tv
 https://stmv3.samcast.com.br/ivonildo3902/ivonildo3902/chunklist_w1980047612.m3u8
-#EXTINF:1 tvg-log = "" group-title = "",Vingadores ultimato 
-https://azureedge.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
-#EXTINF:1 tvg-log = "https://ovicio.com.br/wp-content/uploads/2021/01/20210111-wandavisiondplus-730x365.jpg" group-title = "",Wandavision 4
-https://video.wixstatic.com/video/189d4b_caf734b4f525482682a8e28cba0aa75e/720p/mp4/file.mp4
-#EXTINF:1 tvg-log = "https://ovicio.com.br/wp-content/uploads/2021/01/20210111-wandavisiondplus-730x365.jpg" group-title = "",Wandavision 5
+#EXTINF:1 tvg-log = "" group-title = "",The flash 7x01
+https://r1---sn-gpv7dn7s.googlevideo.com/videoplayback?expire=1617101716&ei=FJNiYI-NF9DyzLUPqbeiiAg&ip=45.170.19.171&id=7b9cd354313c2e06&itag=18&source=blogger&mh=qt&mm=31&mn=sn-gpv7dn7s&ms=au&mv=m&mvi=1&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=2539.218&lmt=1616459662820678&mt=1617072525&txp=1310224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAMy9F8VGto-kRFP5BvN-S6kmbvHPPwmHE-zaFwVc8AYQAiEA6mCugogd7098Cgr0enZFG_OVqIRfVaeRJFfM3veYmLg%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAKmyl_F6NrZCvZ6FgCT1Uz6t5r4hooWcY-wNfnXx4LQQAiA1ACFKx0ORK89QCW7byqeeOzLT2mnKXD5yt5Kb3F6etw%3D%3D&cpn=-lC-VnPzmZk8YRVx&c=WEB_EMBEDDED_PLAYER&cver=1.20210322.1.0
+#EXTINF:1 tvg-log = "" group-title = "",The flash 7x02
+https://r2---sn-gpv7dn7d.googlevideo.com/videoplayback?expire=1617101918&ei=3pNiYLDzL7KN0_wPlJGO4AM&ip=45.170.19.171&id=69ba826bc1ee3c9a&itag=18&source=blogger&mh=IU&mm=31&mn=sn-gpv7dn7d&ms=au&mv=m&mvi=2&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=2543.351&lmt=1617004035227223&mt=1617072760&txp=1310224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgYFQdysMqiJBPIo9CJUx8tqx74fpb6z23Lg2bxBaaLLMCIQDom-L99GqWRgGN1v_hub0-3dCsWKu2W7IDiNUwG0kc8g%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAJ5eDBykLZBNC9opuGlhJiPESGEVL_FuWtDt5mE4NULUAiEApjDtp15pIxqlanWah7upk23j9pRwdzHJDno4bBHDKz0%3D&cpn=oRLcylsKCPiR_rcP&c=WEB_EMBEDDED_PLAYER&cver=1.20210322.1.0
+#EXTINF:1 tvg-log = "" group-title = "",Wandavision 5
 https://video.wixstatic.com/video/189d4b_2dabd45eea55446e98686d324f778c9b/720p/mp4/file.mp4
