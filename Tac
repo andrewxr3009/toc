@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1 tvg-log = "" group-title = "CANAIS",Gloob 
-https://m3u9.ml/a/hls1/gloob.m3u8?mu3zAQc9HC3GbwJq=GaHj6kbY8DO0Ohspdo15iw&3U1G7qaTxrPbalZnEx=1628386509
+https://edge-aws.aovivotv.xyz/hls/s:49.12.237.158/gloob_04f1241e_27a0926344de6dee34efb42056b279b5a5b4c3b7/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY4LjI3Ljg1IjtpOjE7czoxMzA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMzsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk1LjAuNDYzOC42OSBTYWZhcmkvNTM3LjM2IEVkZy85NS4wLjEwMjAuNDQiO2k6MjtpOjE2MzY0MTc2MDc7fQ%3D%3D
 #EXTINF:1 tvg-log = "" group-title = "THE THUNDERMANS",The Thundermans 3x04
 https://m3u9.cf/vod/RedeCanais/RedeCanais/RCServer10/ondemand/THTHNDRMNST03EP04/THTHNDRMNST03EP04.m3u8?mu3zAQc9HC3GbwJq=jIBWDhlJUFd7TbJNfNYOpQ&3U1G7qaTxrPbalZnEx=1630899829
 #EXTINF:1 tvg-log = "" group-title = "THE THUNDERMANS",The Thundermans 3x05
