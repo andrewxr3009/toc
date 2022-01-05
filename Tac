@@ -10,3 +10,5 @@ https://m3u9.cf/vod/RedeCanais/RedeCanais/RCServer10/ondemand/THTHNDRMNST03EP04/
 https://video.wixstatic.com/video/4f65a8_eed14160794e4aa5860fad672b0f5fab/720p/mp4/file.mp4
 #EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Venom 1
 https://video.wixstatic.com/video/cc7aad_4bc1e0b33e3a4808a81d6126a59758e0/720p/mp4/file.mp4
+#EXTINF:1 tvg-log = "" group-title = "The Flash ",8x05
+https://rr1---sn-p28nx8xouxax-bpbe.googlevideo.com/videoplayback?expire=1641427550&ei=3sHVYeziI4SF-LYP5I6ogAM&ip=209.126.9.123&id=e07ad256b9521420&itag=22&source=blogger&susc=bl&mime=video/mp4&vprv=1&dur=2542.074&lmt=1641234038728746&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAJHnDmUqawK6mEhplb2QJNfSZQxeytXdo2JCfKONHpakAiBxd_DZjOXpcNfL5NUv_G4fwgu8l7bbmrHKNivN7yqdEw%3D%3D&type=video/mp4&title=video&redirect_counter=1&rm=sn-vgqr676&req_id=fcbfb9f9282236e2&cms_redirect=yes&ipbypass=yes&mh=QT&mip=45.170.18.214&mm=31&mn=sn-p28nx8xouxax-bpbe&ms=au&mt=1641398466&mv=m&mvi=1&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgNseOh_fOed0VXlOKUEJaz7Ft8MgCGCwVI7PcMdqi7-ICIQCCk7iPf2gfnpOsWICl-fRkiftiRTfeic7pI8-KOP1tTw%3D%3D
