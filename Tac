@@ -12,3 +12,5 @@ https://video.wixstatic.com/video/4f65a8_eed14160794e4aa5860fad672b0f5fab/720p/m
 https://video.wixstatic.com/video/cc7aad_4bc1e0b33e3a4808a81d6126a59758e0/720p/mp4/file.mp4
 #EXTINF:1 tvg-log = "" group-title = "The Flash ",8x05
 https://vod-meta.wix.com/secure-files/bb3609e115514134aaa74017aab72bb6.mp4?secure_data=c2F2ZV9hc19uYW1lPVRoZSUyMEZsYXNoJTIwUzglMjBFUDUubXA0Jm5vbmNlPTEwY2RmMGQzZmUzOSZleHBpcmF0aW9uX3RzPTE2NDE0MzcyNjImYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNGY2NWE4MmYtZjJmMS00OGMzLTliNDctZWVkZGEzYjkxMjk2L3ZpZGVvL2JiMzYwOWUxMTU1MTQxMzRhYWE3NDAxN2FhYjcyYmI2LzEwODBwL21wNC9maWxlLm1wNA==&secure_sig=ff4cd00a72867ddf10182cd690a825cc2577522d
+#EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Encanto
+https://repackager.wixmp.com/wixmp-vod/4f65a82f-f2f1-48c3-9b47-eedda3b91296/video/65d179444e094cff864ccb9f7e52949b/1080p/mp4/file.mp4/index-v1-a1.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcHA6cHJpdmF0ZW1lZGlhIiwiaXNfY2xpcCI6ZmFsc2UsInZpZGVvX2lkIjoiNjVkMTc5NDQ0ZTA5NGNmZjg2NGNjYjlmN2U1Mjk0OWIiLCJzdWIiOiJ1c2VyOnByaXZhdGVtZWRpYSIsImV4cCI6MTY0MjE4MDYyMH0.w-e_wVyq6n0sLghNf4sYs0-OGaCCyMySZ3qhWvWHef0
