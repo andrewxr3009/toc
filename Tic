@@ -72,22 +72,22 @@ https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQo0UoK.png" group-title="Canais | ABERTO",Record Itapoan
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/hC23vJ1.png" group-title="Canais | ABERTO",BAND SD
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/hC23vJ1.png" group-title="ABERTO",BAND SD
 https://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/hC23vJ1.png" group-title="Canais | ABERTO",BAND HD
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/hC23vJ1.png" group-title="ABERTO",BAND HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w578294036.m3u8
 
-#EXTINF:-1 tvg-id="SBT PE" tvg-name="SBT PE" tvg-logo="https://imgur.com/E0VqV6w.png" group-title="Canais | ABERTO",SBT PE SD
+#EXTINF:-1 tvg-id="SBT PE" tvg-name="SBT PE" tvg-logo="https://imgur.com/E0VqV6w.png" group-title="ABERTO",SBT PE SD
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b176000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT SP" tvg-logo="https://imgur.com/E0VqV6w.png" group-title="Canais | ABERTO",SBT SP HD
+#EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT SP" tvg-logo="https://imgur.com/E0VqV6w.png" group-title="ABERTO",SBT SP HD
 https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/tyFtNYn.png" group-title="Canais | ABERTO",SBT BA
+#EXTINF:-1 tvg-logo="https://imgur.com/tyFtNYn.png" group-title="ABERTO",SBT BA
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="RECORD PB" tvg-name="RECORD PB" tvg-logo="https://imgur.com/7X5ATD8.png" group-title="Canais | ABERTO",TV Correio PB
+#EXTINF:-1 tvg-id="RECORD PB" tvg-name="RECORD PB" tvg-logo="https://imgur.com/7X5ATD8.png" group-title="ABERTO",TV Correio PB
 http://rec2.distv.net:80/patricia/123456/101
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NPwAFcQ.png" group-title="Canais | ABERTO",TV Cabo Branco PB
