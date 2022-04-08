@@ -506,8 +506,6 @@ http://cdn2.connectbr.com.br:80/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/Qo2jCSj.png" group-title="Canais | FILMES E SERIES",Space UHD
 http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/DtCwjUq.png" group-title="Canais | FILMES E SERIES",Warner Channel
-
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/DtCwjUq.png" group-title="Canais | FILMES E SERIES",Warner Channel HD
 http://50.7.34.155:2201/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
