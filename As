@@ -2,3 +2,7 @@
 
 #EXTINF:1 tvg-log = "" group-title = "CANAIS",Free Fire Só
 https://cdn77-vid.xvideos-cdn.com/cqZcrgwebEIQbpuT1raz9w==,1650497038/videos_new/hls/a3/c7/2b/a3c72b704cb077134de9924cc1c3c1ae/hls-720p-13d8b.m3u8
+#EXTINF:1 tvg-log = "" group-title = "CANAIS",Free Fire Só 2
+https://hls-hw.xvideos-cdn.com/videos/hls/e9/ac/d8/e9acd8fd1802e4ec3af32248525f19ab/hls-360p.m3u8?e=1650497407&l=0&h=6a88d1a62dd40d0d4d42019680438158
+#EXTINF:1 tvg-log = "" group-title = "CANAIS",Free Fire Só 3
+https://cdn77-vid-mp4.xvideos-cdn.com/srZjTuL8A48fb25cI1P_0g==,1650497720/videos/mp4/e/b/9/xvideos.com_eb93b370bc6a9619f1fa898fb71670f2.mp4?ui=NDUuMTcwLjE5LjEzMS0vdmlkZW8yMjg1MTA2MS9maXJzdGFuYWxxdWVzdC4=
