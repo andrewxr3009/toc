@@ -8,8 +8,8 @@ https://m3u9.cf/vod/RedeCanais/RedeCanais/RCServer10/ondemand/THTHNDRMNST03EP04/
 https://m3u9.cf/vod/RedeCanais/RedeCanais/RCServer10/ondemand/THTHNDRMNST03EP04/THTHNDRMNST03EP04.m3u8?mu3zAQc9HC3GbwJq=LQAu1gwzxCRHQFC9_GfgNw&3U1G7qaTxrPbalZnEx=1630899852
 #EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Venom 2
 https://video.wixstatic.com/video/4f65a8_eed14160794e4aa5860fad672b0f5fab/720p/mp4/file.mp4
-#EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Venom 1
-https://video.wixstatic.com/video/cc7aad_4bc1e0b33e3a4808a81d6126a59758e0/720p/mp4/file.mp4
+#EXTINF:1 tvg-log = "" group-title = "Flash liga",8x12
+http://sub4-a.friday.bid/token:B6cSoCS2uSrDHPG6I/online/tv/60735/8/dub/12.mp4
 #EXTINF:1 tvg-log = "" group-title = "Filmes que ninguém liga ",Guardiões da galáxia
  https://encrypted-tyflex.fun/movies/guardies-da-galxia/69905dd41a8225c759e13eceb6505400/69905dd41a8225c759e13eceb6505400_480p.m3u8
 #EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Guardiões da galáxia vol:2
