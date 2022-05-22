@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:1 tvg-log = "" group-title = "CANAIS",Warner TV
+https://m3u9.ml/a2/hls1/warner.m3u8?mu3zAQc9HC3GbwJq=7cMVOI5QqqCtXbzT4_MuWQ&3U1G7qaTxrPbalZnEx=1653258182
+#EXTINF:1 tvg-log = "" group-title = "CANAIS",
+#EXTINF:1 tvg-log = "" group-title = "CANAIS", Rede Brasil 
+https://rr1---sn-p28nx8xouxax-bpbe.googlevideo.com/videoplayback?expire=1648332463&ei=Tzo_YoXUG4PWxQS3p77YDQ&ip=45.170.19.221&id=o-AHuvwx5UfMUwFLbdCPVNSn8YfUirbVajP6poEHMdYwCO&itag=251&source=youtube&requiressl=yes&mh=zC&mm=31%2C29&mn=sn-p28nx8xouxax-bpbe%2Csn-gpv7dne6&ms=au%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=873750&spc=4ocVC0_W-vCUGCOQuNGLGtkJH33C&vprv=1&mime=audio%2Fwebm&ns=c-rlP2LJ8_2CnXG5CXiSUB8G&gir=yes&clen=520683&dur=28.981&lmt=1627738881658122&mt=1648310455&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&txp=5532434&n=E7OKlThXW_i79g&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAJCD4aswro79gkIo-d5-eNwK9fSQVDrFdQ4vaW2nBxEnAiBs8jyDso3NEHInMY_8PW0bWVFPffbTZFPsgjavD50Zgg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgO2Dx-N_OFSvR_BC4Jz5sY6Cwg3lfVQ1EEMf3vXuPEe0CIQDAdtcoU25_ktY-5exp-XVL7zS7C4HdylJqZOxRldXksg%3D%3D&alr=yes&cpn=eUoRMG1Qc9cAGqC3&cver=1.20220323.01.00VNSn8YfUirbVajP6poEHMdYwCO&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=zC&mm=31%2C29&mn=sn-p28nx8xouxax-bpbe%2Csn-gpv7dne6&ms=au%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=873750&spc=4ocVC0_W-vCUGCOQuNGLGtkJH33C&vprv=1&mime=video%2Fwebm&ns=c-rlP2LJ8_2CnXG5CXiSUB8G&gir=yes&clen=662070&dur=28.945&lmt=1627739253651581&mt=1648310455&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&txp=5535434&n=E7OKlThXW_i79g&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgcfQlASzfewj5U7NXcrrpvQyc3UfNWFVXvDxOs1w8NT8CIHWFqHFN8wc91fDpOmg9w3gU4wL6o8EPGg68nqUWp6JM&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgO2Dx-N_OFSvR_BC4Jz5sY6Cwg3lfVQ1EEMf3vXuPEe0CIQDAdtcoU25_ktY-5exp-XVL7zS7C4HdylJqZOxRldXksg%3D%3D&alr=yes&cpn=eUoRMG1Qc9cAGqC3&cver=1.20220323.01.00&altitags=242
+#EXTINF:1 tvg-log = "" group-title = "THE THUNDERMANS",The Thundermans 3x04
+https://m3u9.cf/vod/RedeCanais/RedeCanais/RCServer10/ondemand/THTHNDRMNST03EP04/THTHNDRMNST03EP04.m3u8?mu3zAQc9HC3GbwJq=jIBWDhlJUFd7TbJNfNYOpQ&3U1G7qaTxrPbalZnEx=1630899829
+#EXTINF:1 tvg-log = "" group-title = "THE THUNDERMANS",The Thundermans 3x05
+https://m3u9.cf/vod/RedeCanais/RedeCanais/RCServer10/ondemand/THTHNDRMNST03EP04/THTHNDRMNST03EP04.m3u8?mu3zAQc9HC3GbwJq=LQAu1gwzxCRHQFC9_GfgNw&3U1G7qaTxrPbalZnEx=1630899852
+#EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Venom 2
+https://video.wixstatic.com/video/4f65a8_eed14160794e4aa5860fad672b0f5fab/720p/mp4/file.mp4
+#EXTINF:1 tvg-log = "" group-title = "Flash liga",8x12
+http://sub4-a.friday.bid/token:B6cSoCS2uSrDHPG6I/online/tv/60735/8/dub/12.mp4
+#EXTINF:1 tvg-log = "" group-title = "Filmes que ninguém liga ",Guardiões da galáxia
+ https://encrypted-tyflex.fun/movies/guardies-da-galxia/69905dd41a8225c759e13eceb6505400/69905dd41a8225c759e13eceb6505400_480p.m3u8
+#EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Guardiões da galáxia vol:2
+https://encrypted-tyflex.fun/movies/marvel/25a770de8968afc33d1a9352f7832028/25a770de8968afc33d1a9352f7832028_480p.m3u8
