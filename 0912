@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:1 tvg-log = "" group-title = "CANAIS",Warner Channel
-https://edge-aws.aovivotv.xyz/hls/s:51.158.161.235/warnerchannel_0a57cb53_e5c06502657d471291801517b0b671903104d4e5/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiNDUuMTcwLjE4LjQ1IjtpOjE7czoxMzI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMS4wLjQ5NTEuNjQgU2FmYXJpLzUzNy4zNiBFZGcvMTAxLjAuMTIxMC41MyI7aToyO2k6MTY1MzQyNzIxOTt9
+#EXTINF:1 tvg-log = "" group-title = "CANAIS",Warner 
+https://m3u9.ml/a2/hls1/warner.m3u8?mu3zAQc9HC3GbwJq=rYAq3WZb_jY__C5s1rxu0w&3U1G7qaTxrPbalZnEx=1653446370
 #EXTINF:1 tvg-log = "" group-title = "",Liga da JUstiça Snyder Cut
 http://multimetro.ga:8080/d/RedeCanais/RedeCanais/RCFServer5/ondemand/LGDJSTCZCKSNYDR.mp4?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIyIDk6NDY6MjEgQU0maGFzaF92YWx1ZT1OK05HcVZkQUJTQnU1eWNBQVNKelB3PT0mdmFsaWRtaW51dGVzPTQ4MCZpZD01&wmsAuthSign=&attachment=true&nimblesessionid=8249457
 #EXTINF:1 tvg-log = "" group-title = "CANAIS", Rede Brasil 
