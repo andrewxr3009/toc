@@ -15,3 +15,7 @@ http://sub4-a.friday.bid/token:B6cSoCS2uSrDHPG6I/online/tv/60735/8/dub/12.mp4
  https://encrypted-tyflex.fun/movies/guardies-da-galxia/69905dd41a8225c759e13eceb6505400/69905dd41a8225c759e13eceb6505400_480p.m3u8
 #EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Guardiões da galáxia vol:2
 https://encrypted-tyflex.fun/movies/marvel/25a770de8968afc33d1a9352f7832028/25a770de8968afc33d1a9352f7832028_480p.m3u8
+#EXTINF:-1 tvg-id="WARNER BROS TV" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/DtCwjUq.png" group-title="Canais | FILMES E SERIES",Warner Channel HD
+http://189.16.194.19:8010/11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="WARNER BROS TV" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/DtCwjUq.png" group-title="Canais | FILMES E SERIES",Warner Channel FHD
+http://45.184.68.97/11/tracks-v1a1/mono.m3u8
