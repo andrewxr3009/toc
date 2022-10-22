@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1 tvg-log = "" group-title = "CANAIS", Loading 
-https://rr1---sn-p28nx8xouxax-bpbe.googlevideo.com/videoplayback?expire=1666479427&ei=wwRUY73jOYuK1d8PrtGSoAc&ip=45.170.19.3&id=ba24a3ec06f037a8&itag=243&source=youtube&requiressl=yes&mh=JG&mm=31&mn=sn-p28nx8xouxax-bpbe&ms=au&mv=m&mvi=1&pl=24&susc=gvp&acao=yes&ctier=L&mime=video%2Fwebm&vprv=1&gir=yes&clen=238429&dur=10.043&lmt=1664824324671037&mt=1666450177&txp=5530434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Csusc%2Cacao%2Cctier%2Cmime%2Cvprv%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgA70ZTwgmvZYYt2PMvMF7ebYaFVauf8-squSToCFDjzcCIQDg6rRPIDBYMcUaYJhbcRXrnmFvgEKf3UMxfWYHTkDsUg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRgIhALmwMWyW20lnIHndZQ-0SqTx3H7TjoLCAC0XD_LEj49hAiEAjF_Yq2rQW2JR9ZxZiL_9bDV_Y48XEAIzkBVOLvdMcNw%3D&cpn=nZMuPw6e5kQTFei9
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w2051120248.m3u8source=youtube&requiressl=yes&mh=JG&mm=31&mn=sn-p28nx8xouxax-bpbe&ms=au&mv=m&mvi=1&pl=24&susc=gvp&acao=yes&ctier=L&mime=video%2Fwebm&vprv=1&gir=yes&clen=238429&dur=10.043&lmt=1664824324671037&mt=1666450177&txp=5530434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Csusc%2Cacao%2Cctier%2Cmime%2Cvprv%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgA70ZTwgmvZYYt2PMvMF7ebYaFVauf8-squSToCFDjzcCIQDg6rRPIDBYMcUaYJhbcRXrnmFvgEKf3UMxfWYHTkDsUg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRgIhALmwMWyW20lnIHndZQ-0SqTx3H7TjoLCAC0XD_LEj49hAiEAjF_Yq2rQW2JR9ZxZiL_9bDV_Y48XEAIzkBVOLvdMcNw%3D&cpn=nZMuPw6e5kQTFei9
 #EXTINF:1 tvg-log = "" group-title = "THE THUNDERMANS",The Thundermans 3x05
 
 #EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Venom 2
