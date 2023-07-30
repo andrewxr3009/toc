@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:1 tvg-log = "" group-title = "CANAIS", Warner TV 
-https://server100.online/warner/tracks-v1a1/mono.m3u8?remote=45.170.19.43&token=1c769a3cd2b8ec4dbdcac809afb5dadf31948d9d-5a4fa2a925903244788c5c048655e368-1677025810-1677022210
-#EXTINF:1 tvg-log = "" group-title = "THE THUNDERMANS",The Thundermans 3x05
+#EXTINF:1 tvg-log = "https://m.media-amazon.com/images/M/MV5BNmY4NTlkNTEtNDBjMS00ZTJiLWFlZDMtNWY0MWFlZmNjMTFlXkEyXkFqcGdeQXVyMzQxODQzMTE@._V1_QL75_UX380_CR0,14,380,562_.jpg" group-title = "Filmes", Nefarious 
+https://watch.brplayer.site/stream/MzdZVVlIVGowa0JiNFdzSHBWZzVvYkVKSTkwYjliVWl1aFdMUlhxelFwMk5NaW1UZlJMR1JrOEF4dFd6WEFCU3NFTzFDTkhBMm1yTUlqd2F1N1lRU1E9PQ==#EXTINF:1 tvg-log = "" group-title = "THE THUNDERMANS",The Thundermans 3x05
 
 #EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Venom 2
 
