@@ -3,10 +3,11 @@
 #EXTINF:1 tvg-log = "https://m.media-amazon.com/images/M/MV5BNmY4NTlkNTEtNDBjMS00ZTJiLWFlZDMtNWY0MWFlZmNjMTFlXkEyXkFqcGdeQXVyMzQxODQzMTE@._V1_QL75_UX380_CR0,14,380,562_.jpg" group-title = "Filmes", Nefarious 
 https://watch.brplayer.site/stream/MzdZVVlIVGowa0JiNFdzSHBWZzVvYkVKSTkwYjliVWl1aFdMUlhxelFwMk5NaW1UZlJMR1JrOEF4dFd6WEFCU3NFTzFDTkhBMm1yTUlqd2F1N1lRU1E9PQ==#EXTINF:1 tvg-log = "" group-title = "THE THUNDERMANS",The Thundermans 3x05
 
-#EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Venom 2
+#EXTINF:1 tvg-log = "" group-title = "The Thundermans", Dando uma de babá.
+https://streaming.vg/V/RCServer10/ondemand/THTHNDRMNST01EP01.mp4?nu3zAQc9HC3GbwJq=1701290634-6MLiLtbWHVuHDSgXqfwgAd34JFky3hzUfTx5Licg8oU%3D
+#EXTINF:1 tvg-log = "" group-title = "The Flash",8x12
 
-#EXTINF:1 tvg-log = "" group-title = "Flash liga",8x12
-
-#EXTINF:1 tvg-log = "" group-title = "Filmes que ninguém liga ",Guardiões da galáxia
+#EXTINF:1 tvg-log = "" group-title = "Canais",Warner TV
+https://s.m3u9.top/a2/hls1/warner/__index.m3u8?mu3zAQc9HC3GbwJq=POd_UhEb5R15PN8U111USA&3U1G7qaTxrPbalZnEx=1701319715
  
-#EXTINF:1 tvg-log = "" group-title = "Filmes que ninguem liga",Guardiões da galáxia vol:2
+#EXTINF:1 tvg-log = "" group-title = "Filmes",Guardiões da galáxia vol:2
